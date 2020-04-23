@@ -30,17 +30,20 @@ Contact Info {#contact}
 Skills {#skills}
 --------------------------------------------------------------------------------
 
-- Experienced in statistical analysis, statistical learning models, and optimization methods.
+- Experienced in Applied research, statistical analysis, statistical learning models, and optimization methods.
 
-- Full experience with next generation sequencing data analysis.
+- Highly skilled in R, SQL, STATA, MATLAB, LaTeX, Tableau and MS office programs (Excel, Word, PPT etc.)
 
-- Highly skilled in R, Bash, Perl, Python, LaTeX
+Languages {#Languages}
+--------------------------------------------------------------------------------
+- English
+- French
+- Hebrew
 
 
 Disclaimer {#disclaimer}
 --------------------------------------------------------------------------------
 
-This resume was made with the R package [**pagedown**](https://github.com/rstudio/pagedown).
 
 Last updated on `r Sys.Date()`.
 
@@ -62,116 +65,81 @@ Education {data-icon=graduation-cap data-concise=true}
 
 ### The Hebrew University of Jerusalem
 
-B.S. in Information and Computing Sciences
+M.A. in Financial Economics ( Honor Program)
 
 Jerusalem, Israel
 
 2018- 2020 (anticipated)
 
-Thesis: Dyadic wavelet and its application in edge detection
 
-### University of Chinese Academy of Sciences
+### The Hebrew University of Jerusalem
 
-M.S. in Bioinformatics
+B.Sc. in Environmental Economics and Management
 
-Beijing, China
-
-2014
-
-Thesis: A multi-omics study for intra-individual divergence of the distributions between mRNA isoforms in mammals
-
-
-Research Experience {data-icon=laptop}
---------------------------------------------------------------------------------
-
-### Graduate Research Assistant
-
-Beijing Institute of Genomics, Chinese Academy of Sciences
-
-Beijing, China
-
-2011 - 2014
-
-- Performed computational biology research towards understanding regulation of alternative splicing in human and mouse transcriptome.
-- Found EGFR pathway related mutations, aimed to understand the impacts of cancer mutations on EGFR signaling pathway.
-
-### Bioinformatican
-
-My Health Gene Technology Co., Ltd.
-
-Beijing, China
-
-2015 - 2016
-
-- Investigated how cancer cells spread to other parts of the body at the single cell level.
-
-### Visiting Scientist
-
-University of Alabama at Birmingham
-
-AL, USA
+Jerusalem, Israel
 
 2016 - 2018
 
-- Investigated the role of mitochondria in development of cancer.
-- Investigated the evolution of genome architecture and its role in important evolutionary events.
-- Detected thrombotic thrombocytopenic purpura related mutations in mutiple patients' blood genome.
-  
 
 Professional Experience {data-icon=suitcase}
 --------------------------------------------------------------------------------
 
-### Data Scientist, intern
+### Earnst & Young, Transaction Advisory Services
 
-SupStat Inc.
+Economist
 
-Beijing, China
+Tel Aviv, Israel
 
-2014
+Aug 2019 - Jul 2020
 
 ::: concise
-- Taught R language to beginners. 
-- Wrote Shiny app demos.
-- Converted statistical tutorials from SPSS to R language.
+sdfsadflkjshdcs
+sdcj dsalkcdslkcds
+
+dsa
 :::
 
-### Bioinformatician
+### Milken Innovation Center
 
-My Health Gene Technology Co., Ltd.
+Resarch Fellow Program. Interning at Ministry of Environmental Protection, Strategy and Policy Division.
 
-Beijing, China
+Jerusalem, Israel
 
 2015 - 2016
 
 ::: concise
-- Analyzed whole-exome sequencing data. 
-- Wrote analysis pipelines of ChIP-seq, single cell DNA-seq and single cell RNA-seq.
-- Studied tumor metastasis and wrote research reports. 
-- Also did case studies to identify the genetic defect causing rare disease.
+Responsibilities: support of Ministry’s leading policymakers in addressing economic challenges, developing local economic and financial models. conducting applied research aimed to inform a first of its kind R&D support program for the cleantech sector in Israel.
 :::
 
 
-Teaching Experience {data-icon=chalkboard-teacher}
+### Bank of Israel
+
+Research Assistant
+
+Israel
+
+::: concise
+
+Responsibilities: Collecting and analyzing data, initial drafting of targeted research reports for committee discussion and presentation of results to Prof. Hercowitz. Primary topics include: Macroeconomic issue, e.g. inflation prediction, and analysis of exchange rates, government debt and major central bank behavior when lower zero bound is given.
+
+:::
+
+Military Service
 --------------------------------------------------------------------------------
+### Combate Officer 
 
-### Introduction to R Language for Beginners.
+Golani brigade
 
-Instructor of R and Data Mining Training Courses at SupStat Inc.
+Israel
 
-Beijing, China
+Dec, 2009 - Dec, 2014
 
-2014
-
-### Computational Biology and Bioinformatics.
-
-Teaching assistant of GBS CB2-201 courses at UAB
-
-AL, USA
-
-2016 - 2017
+::: concise
+I served as commander in the brigade's elite unit who specialized in engineering. My last role I served as a vice company commander. I fought in 'protecting edge' operation and in many other borders. **Excellence award** in officer school. Today I'm serving as a commander in the reserve army.
+:::
 
 
-Selected Publications and Posters {data-icon=file}
+Selected Publications {data-icon=file}
 --------------------------------------------------------------------------------
 
 ### Genetic and epigenetic signals are found predictive to the distribution of intra-individual divergence of alternative splicing.
