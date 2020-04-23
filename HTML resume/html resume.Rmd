@@ -47,25 +47,20 @@ Disclaimer {#disclaimer}
 
 Last updated on `r Sys.Date()`.
 
-
-
 Main
 ================================================================================
 
 Elior Bliah {#title}
 --------------------------------------------------------------------------------
 
-### Currently working for Earnst & Young (EY) Tel Aviv, israel
-
-This is what I wtite about me, what am i LOOKING FOR ETC
-
+### Highly motivated, team work person and hard worker
 
 Education {data-icon=graduation-cap data-concise=true}
 --------------------------------------------------------------------------------
 
 ### The Hebrew University of Jerusalem
 
-M.A. in Financial Economics ( Honor Program)
+M.A. in Financial Economics (Honor Program)
 
 Jerusalem, Israel
 
@@ -90,25 +85,22 @@ Economist
 
 Tel Aviv, Israel
 
-Aug 2019 - Jul 2020
+2019 - 2020
 
 ::: concise
-sdfsadflkjshdcs
-sdcj dsalkcdslkcds
-
-dsa
+Responsibilities: Collect and analyze data, drafting economic opinions, visualization of results. Advisory Main topics include: Competitive concequances of M&A transactions, anti-dumping analysis,accompaniment of comapanies with trade tariffs requests, Market analysis and Big enterprises clients' portfolio analysis.
 :::
 
 ### Milken Innovation Center
 
-Resarch Fellow Program. Interning at Ministry of Environmental Protection, Strategy and Policy Division.
+Resarch Fellow Program. Interning at Ministry of Environmental Protection, Strategy and Policy Division
 
 Jerusalem, Israel
 
-2015 - 2016
+2018 - 2019
 
 ::: concise
-Responsibilities: support of Ministry’s leading policymakers in addressing economic challenges, developing local economic and financial models. conducting applied research aimed to inform a first of its kind R&D support program for the cleantech sector in Israel.
+Responsibilities: Support of Ministry’s leading policymakers in addressing economic challenges, developing local economic and financial models. conducting applied research aimed to inform a first of its kind R&D support program for the cleantech sector in Israel.
 :::
 
 
@@ -116,48 +108,58 @@ Responsibilities: support of Ministry’s leading policymakers in addressing eco
 
 Research Assistant
 
-Israel
+Jerusalem, Israel
+
+2016 - 2018
+
 
 ::: concise
-
-Responsibilities: Collecting and analyzing data, initial drafting of targeted research reports for committee discussion and presentation of results to Prof. Hercowitz. Primary topics include: Macroeconomic issue, e.g. inflation prediction, and analysis of exchange rates, government debt and major central bank behavior when lower zero bound is given.
-
-:::
-
-Military Service
---------------------------------------------------------------------------------
-### Combate Officer 
-
-Golani brigade
-
-Israel
-
-Dec, 2009 - Dec, 2014
-
-::: concise
-I served as commander in the brigade's elite unit who specialized in engineering. My last role I served as a vice company commander. I fought in 'protecting edge' operation and in many other borders. **Excellence award** in officer school. Today I'm serving as a commander in the reserve army.
+Responsibilities: Collecting and analyzing data, initial drafting of targeted research reports for the Monetary Committee discussions and presentation of results to Prof. Hercowitz. Primary topics include: Macroeconomic issue, e.g. inflation prediction, and analysis of exchange rates, government debt and major central bank behavior when lower zero bound is given.
 :::
 
 
-Selected Publications {data-icon=file}
+Military Service {}
+--------------------------------------------------------------------------------
+### Captain, Combate Officer
+
+Golani brigade, IDF
+
+Israel
+
+2009 - 2014
+
+::: concise
+Released as a lieutenant. I served as a commander in the brigade's elite unit who specialized in engineering.During My last role I served as a vice company commander. I fought in 'protecting edge' operation and in many other borders. Excellence award in officer school. Today I'm serving as a commander in the reserve army.
+:::
+
+
+Presentations {data-icon=file}
 --------------------------------------------------------------------------------
 
-### Genetic and epigenetic signals are found predictive to the distribution of intra-individual divergence of alternative splicing.
+### Encouraging the Commercialization of Israeli Cleantech
 
-Poster for 2013 International Conference of Genomics
+GGKP annual conference
 
-Qingdao, China
+Seoul, Repubic of Korea
 
-2014
+2019
 
-**Yu L**, Chen B, Zhang Z.
+::: concise
 
-### ESCRT-0 complex modulates Rbf mutant cell survival by regulating Rhomboid endosomal trafficking and EGFR signaling.
+The resarch paper was presented in the session of 'Innovative business and market approach'. The Green Growth Knowledge Platform (GGKP) is supported by the OECD, The World Bank, UNIDO and other. 
+:::
 
-J Cell Sci. 2016 May 15;129(10):2075-84.
+Volunteering {data-icon=hands}
+--------------------------------------------------------------------------------
 
-N/A
+### IDF Widows and Orphans Organization
 
-2016 
+Camp Instructor
 
-Sheng Z, **Yu L**, Zhang T, Pei X, Li X, Zhang Z and Du W. 
+Israel
+
+2016 - Current
+
+::: concise
+Instructor of 6-11 years old children. These camps provide to the orphans a temporary relief in hard reality at home.
+:::
