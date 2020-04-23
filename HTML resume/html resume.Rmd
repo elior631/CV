@@ -32,7 +32,7 @@ Skills {#skills}
 
 - Experienced in Applied research, statistical analysis, statistical learning models, and optimization methods.
 
-- Highly skilled in R, SQL, STATA, MATLAB, LaTeX, Tableau and MS office programs (Excel, Word, PPT etc.)
+- Highly skilled in R, SQL, STATA, MATLAB, LaTeX, Tableau and MS office (Excel, Word, PPT etc.)
 
 Languages {#Languages}
 --------------------------------------------------------------------------------
@@ -53,7 +53,6 @@ Main
 Elior Bliah {#title}
 --------------------------------------------------------------------------------
 
-### Highly motivated, team work person and hard worker
 
 Education {data-icon=graduation-cap data-concise=true}
 --------------------------------------------------------------------------------
@@ -79,7 +78,7 @@ Jerusalem, Israel
 Professional Experience {data-icon=suitcase}
 --------------------------------------------------------------------------------
 
-### Earnst & Young, Transaction Advisory Services
+### Ernst & Young, Transaction Advisory Services
 
 Economist
 
@@ -88,12 +87,23 @@ Tel Aviv, Israel
 2019 - 2020
 
 ::: concise
-Responsibilities: Collect and analyze data, drafting economic opinions, visualization of results. Advisory Main topics include: Competitive concequances of M&A transactions, anti-dumping analysis,accompaniment of comapanies with trade tariffs requests, Market analysis and Big enterprises clients' portfolio analysis.
+Responsibilities: Collect and analyze data, drafting economic opinions, visualization of results. Advisory Main topics include: Competitive consequences of M&A transactions, accompaniment of companies with trade tariffs requests, Market analysis and big enterprises clients' portfolio analysis.
+:::
+### Israel Democracy Institute
+
+Researcher
+
+Jerusalem, Israel
+
+2019
+
+::: concise
+Macroeconomic forecast team for modeling the Israeli road map to 2050 - Transmission to a low carbon economy. Main topics includes literature review, operating Computable General Equilibrum (CGE) models, design of different scenarios with Government ministries and the OECD's Experts.
 :::
 
 ### Milken Innovation Center
 
-Resarch Fellow Program. Interning at Ministry of Environmental Protection, Strategy and Policy Division
+Research Fellow Program. Interning at Ministry of Environmental Protection, Strategy and Policy Division
 
 Jerusalem, Israel
 
@@ -117,10 +127,34 @@ Jerusalem, Israel
 Responsibilities: Collecting and analyzing data, initial drafting of targeted research reports for the Monetary Committee discussions and presentation of results to Prof. Hercowitz. Primary topics include: Macroeconomic issue, e.g. inflation prediction, and analysis of exchange rates, government debt and major central bank behavior when lower zero bound is given.
 :::
 
+Presentations {data-icon=file}
+--------------------------------------------------------------------------------
+
+### Encouraging the Commercialization of Israeli Cleantech
+
+GGKP annual conference
+
+Seoul, Republic of Korea
+
+2019
+
+::: concise
+
+The resarch paper was presented in the session of 'Innovative business and market approach'. The Green Growth Knowledge Platform (GGKP) is supported by the OECD, The World Bank, UNIDO and other. 
+:::
+
+### “Israel 2050: Moving towards a Thriving Economy in a Sustainable Environment”: A Strategic Process
+
+Eli Hurvitz Conference on Economy and Society 2019
+
+Jerusalem, Israel
+
+2019
+
 
 Military Service {}
 --------------------------------------------------------------------------------
-### Captain, Combate Officer
+### Captain, Combat Officer
 
 Golani brigade, IDF
 
@@ -129,25 +163,12 @@ Israel
 2009 - 2014
 
 ::: concise
-Released as a lieutenant. I served as a commander in the brigade's elite unit who specialized in engineering.During My last role I served as a vice company commander. I fought in 'protecting edge' operation and in many other borders. Excellence award in officer school. Today I'm serving as a commander in the reserve army.
+Released as a lieutenant. I served as a commander in the brigade's elite unit who specialized in engineering. During My last role I served as a vice company commander. I fought in 'protecting edge' operation and in many other borders. Excellence award in officer school. Today I'm serving as a commander in the reserve army.
 :::
 
 
-Presentations {data-icon=file}
---------------------------------------------------------------------------------
 
-### Encouraging the Commercialization of Israeli Cleantech
 
-GGKP annual conference
-
-Seoul, Repubic of Korea
-
-2019
-
-::: concise
-
-The resarch paper was presented in the session of 'Innovative business and market approach'. The Green Growth Knowledge Platform (GGKP) is supported by the OECD, The World Bank, UNIDO and other. 
-:::
 
 Volunteering {data-icon=hands}
 --------------------------------------------------------------------------------
