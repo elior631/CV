@@ -168,6 +168,9 @@ Served as a commander in the brigade's elite unit 'Sayeret Golani'. Excellence a
 :::
 
 
+
+
+
 Volunteering {data-icon=hands}
 --------------------------------------------------------------------------------
 
