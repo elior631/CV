@@ -14,7 +14,7 @@ Aside
 ================================================================================
 
 
-![Linkdin image](https://media-exp1.licdn.com/dms/image/C4E03AQGx3JOIsh2uyg/profile-displayphoto-shrink_200_200/0?e=1593043200&v=beta&t=T9MtDDkymeWeFVVMH1-1ajs2yDBrqJRBk4zBJwbThaY){width=70%}
+![Linkdin image](https://media-exp1.licdn.com/dms/image/C4E03AQGx3JOIsh2uyg/profile-displayphoto-shrink_200_200/0?e=1593043200&v=beta&t=T9MtDDkymeWeFVVMH1-1ajs2yDBrqJRBk4zBJwbThaY){width=65%}
 
 
 Contact Info {#contact}
@@ -36,9 +36,9 @@ Skills {#skills}
 
 Languages {#Languages}
 --------------------------------------------------------------------------------
-- English
-- French
-- Hebrew
+English
+French
+and Hebrew
 
 
 Disclaimer {#disclaimer}
@@ -63,8 +63,9 @@ M.A. in Financial Economics (Honor Program)
 
 Jerusalem, Israel
 
-2018- 2020 (anticipated)
+2020 - 2019
 
+GPA: 89
 
 ### The Hebrew University of Jerusalem
 
@@ -72,7 +73,7 @@ B.Sc. in Environmental Economics and Management
 
 Jerusalem, Israel
 
-2016 - 2018
+2018 - 2016
 
 
 Professional Experience {data-icon=suitcase}
@@ -80,14 +81,14 @@ Professional Experience {data-icon=suitcase}
 
 ### Ernst & Young, Transaction Advisory Services
 
-Economist
+Senior economist
 
 Tel Aviv, Israel
 
-2019 - 2020
+Current - 2019
 
 ::: concise
-Responsibilities: Collect and analyze data, drafting economic opinions, visualization of results. Advisory Main topics include: Competitive consequences of M&A transactions, accompaniment of companies with trade tariffs requests, Market analysis and big enterprises clients' portfolio analysis.
+Collecting and analyzing data with statistical tools, drafting economic opinions and visualization of results using Tableau. Primary topics include analysis of competitive consequences of M&A transactions for large enterprises and accompanying companies with trade tariff requests form regulators.
 :::
 ### Israel Democracy Institute
 
@@ -98,19 +99,19 @@ Jerusalem, Israel
 2019
 
 ::: concise
-Macroeconomic forecast team for modeling the Israeli road map to 2050 - Transmission to a low carbon economy. Main topics includes literature review, operating Computable General Equilibrum (CGE) models, design of different scenarios with Government ministries and the OECD's Experts.
+Macroeconomic forecast team for modeling the Israeli road map to 2050 - Transmission to a low carbon economy. Primary topics include literature review, operating Computable General Equilibrum (CGE) models, design of different scenarios with government ministries and the OECD's experts.
 :::
 
 ### Milken Innovation Center
 
-Research Fellow Program. Interning at Ministry of Environmental Protection, Strategy and Policy Division
+Research Fellow Program
 
 Jerusalem, Israel
 
-2018 - 2019
+2019 - 2018
 
 ::: concise
-Responsibilities: Support of Ministry’s leading policymakers in addressing economic challenges, developing local economic and financial models. conducting applied research aimed to inform a first of its kind R&D support program for the cleantech sector in Israel.
+Interning at Ministry of Environmental Protection, Strategy and Policy Division. Primary topics include support of ministry’s leading policymakers in addressing economic challenges, developing local economic and financial models and conducting applied research aimed to inform a first of its kind R&D support program for the Cleantech sector in Israel.
 :::
 
 
@@ -120,11 +121,11 @@ Research Assistant
 
 Jerusalem, Israel
 
-2016 - 2018
+2018 - 2016
 
 
 ::: concise
-Responsibilities: Collecting and analyzing data, initial drafting of targeted research reports for the Monetary Committee discussions and presentation of results to Prof. Hercowitz. Primary topics include: Macroeconomic issue, e.g. inflation prediction, and analysis of exchange rates, government debt and major central bank behavior when lower zero bound is given.
+Responsibilities: Collecting and analyzing data, initial drafting of targeted research reports and creating presentation of results to Prof. Hercowitz, member of the Monetary Committee. Primary topics include: Macroeconomic issue, e.g. inflation prediction, and analysis of exchange rates, government debt and major central bank behavior when lower zero bound is given.
 :::
 
 Presentations {data-icon=file}
@@ -140,7 +141,7 @@ Seoul, Republic of Korea
 
 ::: concise
 
-The resarch paper was presented in the session of 'Innovative business and market approach'. The Green Growth Knowledge Platform (GGKP) is supported by the OECD, The World Bank, UNIDO and other. 
+The resarch [paper](https://milkeninnovationcenter.org/publications/encouraging-the-commercialization-of-israeli-cleantech/) was presented in the session of 'Innovative business and market approach' as a representative of Israel's Ministry of Evironmental Protection. The Green Growth Knowledge Platform ([GGKP](https://www.greengrowthknowledge.org/)) is supported by the OECD, The World Bank, UNIDO and other.
 :::
 
 ### “Israel 2050: Moving towards a Thriving Economy in a Sustainable Environment”: A Strategic Process
@@ -160,10 +161,10 @@ Golani brigade, IDF
 
 Israel
 
-2009 - 2014
+2014 - 2009
 
 ::: concise
-Released as a lieutenant. I served as a commander in the brigade's elite unit who specialized in engineering. During My last role I served as a vice company commander. I fought in 'protecting edge' operation and in many other borders. Excellence award in officer school. Today I'm serving as a commander in the reserve army.
+Served as a commander in the brigade's elite unit 'Sayeret Golani'. Excellence award in officer school.
 :::
 
 
@@ -179,8 +180,8 @@ Camp Instructor
 
 Israel
 
-2016 - Current
+2019 - 2016
 
 ::: concise
-Instructor of 6-11 years old children. These camps provide to the orphans a temporary relief in hard reality at home.
+Instructor of 6-11 years old children. These camps provide the orphans with a temporary relief from the hard reality at home.
 :::
