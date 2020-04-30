@@ -36,9 +36,11 @@ Skills {#skills}
 
 Languages {#Languages}
 --------------------------------------------------------------------------------
-English
-French
-and Hebrew
+- English (Very Good)
+ 
+- French (Excelent)
+ 
+- Hebrew (Natube)
 
 
 Disclaimer {#disclaimer}
@@ -53,6 +55,7 @@ Main
 Elior Bliah {#title}
 --------------------------------------------------------------------------------
 
+M.Sc. in Economics seeking Senior Economist position to ..."   
 
 Education {data-icon=graduation-cap data-concise=true}
 --------------------------------------------------------------------------------
