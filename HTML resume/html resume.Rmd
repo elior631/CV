@@ -8,6 +8,7 @@ output:
     self_contained: false
 # uncomment this line to produce HTML and PDF in RStudio:
 knit: pagedown::chrome_print
+break-inside: avoid;
 ---
 
 Aside
@@ -23,8 +24,7 @@ Contact Info {#contact}
 - <i class="fa fa-envelope"></i> eliorbliah@gmail.com
 - <i class="fa fa-github"></i> [github.com/elior631](https://github.com/elior631)
 - <i class="fab fa-linkedin"></i> [Elior Bliah](https://www.linkedin.com/in/elior-bliah-a08987121/)
-- <i class="fa fa-phone"></i> +972 545-224-660
-- For more information, please contact me via email.
+- <i class="fa fa-phone"></i>  0545-224-660
 
 
 Skills {#skills}
@@ -32,7 +32,7 @@ Skills {#skills}
 
 - Experienced in Applied research, statistical analysis, statistical learning models, and optimization methods.
 
-- Highly skilled in R, SQL, STATA, MATLAB, LaTeX, Tableau and MS office (Excel, Word, PPT etc.)
+- Skilled in R, SQL, STATA, MATLAB, LaTeX, Tableau and MS office (Excel, Word, PPT etc.)
 
 Languages {#Languages}
 --------------------------------------------------------------------------------
@@ -40,14 +40,13 @@ Languages {#Languages}
  
 - French (Excelent)
  
-- Hebrew (Natube)
+- Hebrew (Native)
 
 
 Disclaimer {#disclaimer}
 --------------------------------------------------------------------------------
 
 
-Last updated on `r Sys.Date()`.
 
 Main
 ================================================================================
@@ -55,7 +54,7 @@ Main
 Elior Bliah {#title}
 --------------------------------------------------------------------------------
 
-M.Sc. in Economics seeking Senior Economist position to ..."   
+M.A. in Economics seeking Senior Economist position   
 
 Education {data-icon=graduation-cap data-concise=true}
 --------------------------------------------------------------------------------
@@ -66,9 +65,9 @@ M.A. in Financial Economics (Honor Program)
 
 Jerusalem, Israel
 
-2020 - 2019
+Jun,2020 (Anticipiated) - Sep, 2018
 
-GPA: 89
+GPA: 89 (Not final)
 
 ### The Hebrew University of Jerusalem
 
@@ -76,7 +75,7 @@ B.Sc. in Environmental Economics and Management
 
 Jerusalem, Israel
 
-2018 - 2016
+Aug, 2018 - Sep, 2016
 
 
 Professional Experience {data-icon=suitcase}
@@ -88,10 +87,11 @@ Senior economist
 
 Tel Aviv, Israel
 
-Current - 2019
+Current - Aug, 2019
 
 ::: concise
-Collecting and analyzing data with statistical tools, drafting economic opinions and visualization of results using Tableau. Primary topics include analysis of competitive consequences of M&A transactions for large enterprises and accompanying companies with trade tariff requests form regulators.
+Our team advised companies on optimal economic approaches for anticipated M&A activity and antitrust aplications.  
+My role is to collect and analyze data with statistical tools,visualize results using Tableau and draft economic opinions.
 :::
 ### Israel Democracy Institute
 
@@ -99,37 +99,45 @@ Researcher
 
 Jerusalem, Israel
 
-2019
+Sep, 2019 - Apr, 2019
 
 ::: concise
-Macroeconomic forecast team for modeling the Israeli road map to 2050 - Transmission to a low carbon economy. Primary topics include literature review, operating Computable General Equilibrum (CGE) models, design of different scenarios with government ministries and the OECD's experts.
+Macroeconomic forecast team for modeling the Israeli road map to 2050 - Transmission to a low carbon economy. My role was to operate dynamic forcasting model, design of different scenarios with government officials and the OECD's experts. The work was presented during a government conference at the highest levels with the aim of leading a bill in Israel.
 :::
 
 ### Milken Innovation Center
 
-Research Fellow Program
+[Research Fellow](ttps://milkeninnovationcenter.org/fellows-program/)
 
 Jerusalem, Israel
 
-2019 - 2018
+Aug, 2019 - Sep, 2018
 
 ::: concise
-Interning at Ministry of Environmental Protection, Strategy and Policy Division. Primary topics include support of ministry’s leading policymakers in addressing economic challenges, developing local economic and financial models and conducting applied research aimed to inform a first of its kind R&D support program for the Cleantech sector in Israel.
+Interning at Ministry of Environmental Protection, Strategy and Policy Division. Primary topics include support of ministry’s leading policymakers in addressing economic challenges, developing local economic and financial models and conducting applied research aimed to inform a first of its kind R&D financing program for the Cleantech sector in Israel.
 :::
 
 
 ### Bank of Israel
 
-Research Assistant
+Research Assistant, Monetary Committee 
 
 Jerusalem, Israel
 
-2018 - 2016
+Sep, 2018 - Aug, 2016
 
 
 ::: concise
-Responsibilities: Collecting and analyzing data, initial drafting of targeted research reports and creating presentation of results to Prof. Hercowitz, member of the Monetary Committee. Primary topics include: Macroeconomic issue, e.g. inflation prediction, and analysis of exchange rates, government debt and major central bank behavior when lower zero bound is given.
+
+Worked in support of Prof. Hercowitz, member of the Monetary Policy Committee. My role was to collect and analyze data, initial drafting of targeted research reports and presentation of results at weekly series. Primary topics include: Macroeconomics.
+
+
+
+
 :::
+
+
+
 
 Presentations {data-icon=file}
 --------------------------------------------------------------------------------
@@ -140,11 +148,11 @@ GGKP annual conference
 
 Seoul, Republic of Korea
 
-2019
+Oct, 2019
 
 ::: concise
 
-The resarch [paper](https://milkeninnovationcenter.org/publications/encouraging-the-commercialization-of-israeli-cleantech/) was presented in the session of 'Innovative business and market approach' as a representative of Israel's Ministry of Evironmental Protection. The Green Growth Knowledge Platform ([GGKP](https://www.greengrowthknowledge.org/)) is supported by the OECD, The World Bank, UNIDO and other.
+ The Green Growth Knowledge Platform ([GGKP](https://www.greengrowthknowledge.org/)) is supported by the OECD, The World Bank, UNIDO and other. The resarch [paper](https://milkeninnovationcenter.org/publications/encouraging-the-commercialization-of-israeli-cleantech/) was presented in the session of 'Innovative business and market approach' as a representative of Israel's Ministry of Evironmental Protection.
 :::
 
 ### “Israel 2050: Moving towards a Thriving Economy in a Sustainable Environment”: A Strategic Process
@@ -153,7 +161,7 @@ Eli Hurvitz Conference on Economy and Society 2019
 
 Jerusalem, Israel
 
-2019
+Dec, 2019
 
 
 Military Service {}
@@ -164,10 +172,10 @@ Golani brigade, IDF
 
 Israel
 
-2014 - 2009
+Current - Dec,2009
 
 ::: concise
-Served as a commander in the brigade's elite unit 'Sayeret Golani'. Excellence award in officer school.
+Serving in the reserve army as a team commander. During mandatoty service iServed as a commander in the brigade's elite unit 'Sayeret Golani'. Excellence award in officer school.
 :::
 
 
@@ -183,8 +191,8 @@ Camp Instructor
 
 Israel
 
-2019 - 2016
+Jan, 2019 - Sep, 2016
 
 ::: concise
-Instructor of 6-11 years old children. These camps provide the orphans with a temporary relief from the hard reality at home.
+Instructor of 6-11 years old children. These summer camps provide the orphans with a temporary relief from the hard reality at home.
 :::
