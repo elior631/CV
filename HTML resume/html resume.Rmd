@@ -43,11 +43,6 @@ Languages {#Languages}
 - Hebrew (Native)
 
 
-Disclaimer {#disclaimer}
---------------------------------------------------------------------------------
-
-
-
 Main
 ================================================================================
 
@@ -77,6 +72,8 @@ Jerusalem, Israel
 
 Aug, 2018 - Sep, 2016
 
+Honor program, direct to MBA.
+
 
 Professional Experience {data-icon=suitcase}
 --------------------------------------------------------------------------------
@@ -92,6 +89,7 @@ Current - Aug, 2019
 ::: concise
 Our team advised companies on optimal economic approaches for anticipated M&A activity and antitrust aplications.  
 My role is to collect and analyze data with statistical tools,visualize results using Tableau and draft economic opinions.
+
 :::
 ### Israel Democracy Institute
 
@@ -102,7 +100,8 @@ Jerusalem, Israel
 Sep, 2019 - Apr, 2019
 
 ::: concise
-Macroeconomic forecast team for modeling the Israeli road map to 2050 - Transmission to a low carbon economy. My role was to operate dynamic forcasting model, design of different scenarios with government officials and the OECD's experts. The work was presented during a government conference at the highest levels with the aim of leading a bill in Israel.
+Macroeconomic forecast team for modeling the Israeli road map to 2050 - Transmission to a low carbon economy.
+My role was to operate dynamic forcasting model, design of different scenarios with government officials and the OECD's experts. The work was presented during a government conference at the highest levels with the aim of leading a bill in Israel.
 :::
 
 ### Milken Innovation Center
@@ -114,13 +113,13 @@ Jerusalem, Israel
 Aug, 2019 - Sep, 2018
 
 ::: concise
-Interning at Ministry of Environmental Protection, Strategy and Policy Division. Primary topics include support of ministry’s leading policymakers in addressing economic challenges, developing local economic and financial models and conducting applied research aimed to inform a first of its kind R&D financing program for the Cleantech sector in Israel.
+Interning at Ministry of Environmental Protection, Strategy and Policy Division.                                                      Primary topics include support of ministry’s leading policymakers in addressing economic challenges, developing local economic and financial models and conducting applied research aimed to inform a first of its kind R&D financing program for the Cleantech sector in Israel.
 :::
 
 
 ### Bank of Israel
 
-Research Assistant, Monetary Committee 
+Research Assistant, Monetary Committee
 
 Jerusalem, Israel
 
@@ -129,7 +128,7 @@ Sep, 2018 - Aug, 2016
 
 ::: concise
 
-Worked in support of Prof. Hercowitz, member of the Monetary Policy Committee. My role was to collect and analyze data, initial drafting of targeted research reports and presentation of results at weekly series. Primary topics include: Macroeconomics.
+Worked in support of Prof. Hercowitz, member of the Monetary Policy Committee. My role was to collect and analyze data, initial drafting of targeted research reports and presentation of results at weekly series. Primary topics include: Macroeconomics e.g. inflation prediction, exchange rates, central bank's monetary policy
 
 
 
