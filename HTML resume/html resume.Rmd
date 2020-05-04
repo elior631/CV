@@ -32,7 +32,7 @@ Skills {#skills}
 
 - Experienced in Applied research, statistical analysis, statistical learning models, and optimization methods.
 
-- Skilled in R, SQL, STATA, MATLAB, LaTeX, Tableau and MS office (Excel, Word, PPT etc.)
+- Skilled in R, SQL, STATA, MATLAB, LaTeX, Tableau and MS office (Excel, Word, PPT()
 
 Languages {#Languages}
 --------------------------------------------------------------------------------
@@ -49,7 +49,7 @@ Main
 Elior Bliah {#title}
 --------------------------------------------------------------------------------
 
-M.A. in Economics seeking Senior Economist position   
+M.A. in Economics (Anticipated 6/20) seeking Senior Economist position   
 
 Education {data-icon=graduation-cap data-concise=true}
 --------------------------------------------------------------------------------
@@ -60,9 +60,9 @@ M.A. in Financial Economics (Honor Program)
 
 Jerusalem, Israel
 
-Jun,2020 (Anticipiated) - Sep, 2018
+Jun,2020 (Anticipated) - Sep, 2018
 
-GPA: 89 (Not final)
+GPA: 89 (Pendind final semester)
 
 ### The Hebrew University of Jerusalem
 
@@ -78,22 +78,22 @@ Honor program, direct to MBA.
 Professional Experience {data-icon=suitcase}
 --------------------------------------------------------------------------------
 
-### Ernst & Young, Transaction Advisory Services
+### Ernst & Young
 
-Senior economist
+Senior economist, Transaction Advisory Services
 
 Tel Aviv, Israel
 
 Current - Aug, 2019
 
 ::: concise
-Our team advised companies on optimal economic approaches for anticipated M&A activity and antitrust aplications.  
-My role is to collect and analyze data with statistical tools,visualize results using Tableau and draft economic opinions.
+Our team advises companies on optimal economic approaches for anticipated M&A activities and antitrust applications.  
+I conduct statistical analyses, visualize results using Tableau and draft economic opinions in support of the Senior Manager.
 
 :::
 ### Israel Democracy Institute
 
-Researcher
+Researcher, Macroeconomic Forcast Team
 
 Jerusalem, Israel
 
@@ -127,15 +127,8 @@ Sep, 2018 - Aug, 2016
 
 
 ::: concise
-
 Worked in support of Prof. Hercowitz, member of the Monetary Policy Committee. My role was to collect and analyze data, initial drafting of targeted research reports and presentation of results at weekly series. Primary topics include: Macroeconomics e.g. inflation prediction, exchange rates, central bank's monetary policy
-
-
-
-
 :::
-
-
 
 
 Presentations {data-icon=file}
@@ -143,7 +136,7 @@ Presentations {data-icon=file}
 
 ### Encouraging the Commercialization of Israeli Cleantech
 
-GGKP annual conference
+GGKP annual conference, Primary presenter
 
 Seoul, Republic of Korea
 
@@ -151,10 +144,11 @@ Oct, 2019
 
 ::: concise
 
- The Green Growth Knowledge Platform ([GGKP](https://www.greengrowthknowledge.org/)) is supported by the OECD, The World Bank, UNIDO and other. The resarch [paper](https://milkeninnovationcenter.org/publications/encouraging-the-commercialization-of-israeli-cleantech/) was presented in the session of 'Innovative business and market approach' as a representative of Israel's Ministry of Evironmental Protection.
+ The Green Growth Knowledge Platform ([GGKP](https://www.greengrowthknowledge.org/)) is supported by the OECD, The World Bank, UNIDO and others. Presented in a session entitled 'Innovative business and market approach' as a representative of Israel's Ministry of Environmental Protection.
 :::
 
 ### “Israel 2050: Moving towards a Thriving Economy in a Sustainable Environment”: A Strategic Process
+co-author, Israel Democracy Institute
 
 Eli Hurvitz Conference on Economy and Society 2019
 
@@ -174,7 +168,7 @@ Israel
 Current - Dec,2009
 
 ::: concise
-Serving in the reserve army as a team commander. During mandatoty service iServed as a commander in the brigade's elite unit 'Sayeret Golani'. Excellence award in officer school.
+I currently serve as a Team Commander in the army reserves. During mandatory service I Served as a commander in elite 'Sayeret Golani' unit. Excellence award in officer school.
 :::
 
 
@@ -193,5 +187,13 @@ Israel
 Jan, 2019 - Sep, 2016
 
 ::: concise
-Instructor of 6-11 years old children. These summer camps provide the orphans with a temporary relief from the hard reality at home.
+Counselor for 6-11 year old children. These summer camps provide IDF orphans with a temporary relief from difficult home circumstances.
+:::
+
+
+
+
+
+::: aside
+References available on request
 :::
