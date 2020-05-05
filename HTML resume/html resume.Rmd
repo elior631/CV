@@ -144,35 +144,50 @@ Seoul, Republic of Korea
 Oct, 2019
 
 ::: concise
-
- The Green Growth Knowledge Platform ([GGKP](https://www.greengrowthknowledge.org/)) is supported by the OECD, The World Bank, UNIDO and others. Presented in a session entitled 'Innovative business and market approach' as a representative of Israel's Ministry of Environmental Protection.
+The Green Growth Knowledge Platform ([GGKP](https://www.greengrowthknowledge.org/)) is supported by the OECD, The World Bank, UNIDO and others. Presented in a session entitled 'Innovative business and market approach' as a representative of Israel's Ministry of Environmental Protection.
 :::
 
 ### “Israel 2050: Moving towards a Thriving Economy in a Sustainable Environment”: A Strategic Process
-co-author, Israel Democracy Institute
 
-Eli Hurvitz Conference on Economy and Society 2019
+co-author, Israel Democracy Institute
 
 Jerusalem, Israel
 
 Dec, 2019
 
-
-Military Service {}
---------------------------------------------------------------------------------
-### Captain, Combat Officer
-
-Golani brigade, IDF
-
-Israel
-
-Current - Dec,2009
-
 ::: concise
-I currently serve as a Team Commander in the army reserves. During mandatory service I Served as a commander in elite 'Sayeret Golani' unit. Excellence award in officer school.
+Eli Hurvitz Conference on Economy and Society 2019
 :::
 
 
+
+
+
+Military Service {}
+--------------------------------------------------------------------------------
+### Reserves Army
+
+Combat Officer, IDF
+
+Israel
+
+Current - Dec,2014
+
+::: concise
+I serve as a Team Commander in the army reserves. Rank: Captain (סרן).
+:::
+
+### Obligatory military service
+
+'Sayeret Golani', IDF
+
+Israel
+
+Dec,2014 - Dec,2009
+
+::: concise
+I Served as a commander along the rank structure from squad commander to company XO. I received an excellence award in officer school.
+:::
 
 
 
@@ -190,10 +205,6 @@ Jan, 2019 - Sep, 2016
 ::: concise
 Counselor for 6-11 year old children. These summer camps provide IDF orphans with a temporary relief from difficult home circumstances.
 :::
-
-
-
-
 
 ::: aside
 References available on request
