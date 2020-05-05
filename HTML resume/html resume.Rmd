@@ -32,13 +32,13 @@ Skills {#skills}
 
 - Experienced in Applied research, statistical analysis, statistical learning models, and optimization methods.
 
-- Skilled in R, SQL, STATA, MATLAB, LaTeX, Tableau and MS office (Excel, Word, PPT()
+- Skilled in R, SQL, STATA, MATLAB, LaTeX, Tableau and MS office (Excel, Word, PPT)
 
 Languages {#Languages}
 --------------------------------------------------------------------------------
 - English (Very Good)
  
-- French (Excelent)
+- French (Excellent)
  
 - Hebrew (Native)
 
@@ -62,7 +62,7 @@ Jerusalem, Israel
 
 Jun,2020 (Anticipated) - Sep, 2018
 
-GPA: 89 (Pendind final semester)
+GPA: 89 (Pending final semester)
 
 ### The Hebrew University of Jerusalem
 
@@ -93,15 +93,14 @@ I conduct statistical analyses, visualize results using Tableau and draft econom
 :::
 ### Israel Democracy Institute
 
-Researcher, Macroeconomic Forcast Team
+Researcher, Macroeconomic Forecast Team
 
 Jerusalem, Israel
 
 Sep, 2019 - Apr, 2019
 
 ::: concise
-Macroeconomic forecast team for modeling the Israeli road map to 2050 - Transmission to a low carbon economy.
-My role was to operate dynamic forcasting model, design of different scenarios with government officials and the OECD's experts. The work was presented during a government conference at the highest levels with the aim of leading a bill in Israel.
+Our team participated in preparation of the Israeli road map to 2050 - Transmission to a low carbon economy. I performed dynamic forecast modelling of specific scenarios in collaboration with government officials and the OECD experts. The work was presented during a government conference at the Ministry level with the aim of supporting new legislatorial initiatives.
 :::
 
 ### Milken Innovation Center
@@ -113,7 +112,7 @@ Jerusalem, Israel
 Aug, 2019 - Sep, 2018
 
 ::: concise
-Interning at Ministry of Environmental Protection, Strategy and Policy Division.                                                      Primary topics include support of ministry’s leading policymakers in addressing economic challenges, developing local economic and financial models and conducting applied research aimed to inform a first of its kind R&D financing program for the Cleantech sector in Israel.
+I interned at the Ministry of Environmental Protection, Strategy and Policy Division. I supported the ministry’s leading policymakers in addressing economic challenges, developed local economic and financial models and conducted applied research to inform a first of its kind R&D financing program for the Cleantech sector in  Israel.
 :::
 
 
@@ -127,7 +126,9 @@ Sep, 2018 - Aug, 2016
 
 
 ::: concise
-Worked in support of Prof. Hercowitz, member of the Monetary Policy Committee. My role was to collect and analyze data, initial drafting of targeted research reports and presentation of results at weekly series. Primary topics include: Macroeconomics e.g. inflation prediction, exchange rates, central bank's monetary policy
+
+I worked in support of Prof. Zvi Hercowitz regarding macroeconomic issues. I collected and analyzed data, drafted research reports and presented results at weekly team meetings.  Topics included inflation prediction, exchange rates and Central Bank monetary policy. 
+
 :::
 
 
