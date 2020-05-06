@@ -9,6 +9,8 @@ output:
 # uncomment this line to produce HTML and PDF in RStudio:
 knit: pagedown::chrome_print
 break-inside: avoid;
+addons:
+  chrome: stable
 ---
 
 Aside
@@ -42,14 +44,13 @@ Languages {#Languages}
  
 - Hebrew (Native)
 
-
 Main
 ================================================================================
 
 Elior Bliah {#title}
 --------------------------------------------------------------------------------
 
-M.A. in Economics (Anticipated 6/20) seeking Senior Economist  position with emphasis in Macroeconomics and Machine Learning
+M.A. in Financial Economics (Anticipated 6/20) seeking Senior policy / research analyst position with emphasis in macroeconomics and machine learning
 
 Education {data-icon=graduation-cap data-concise=true}
 --------------------------------------------------------------------------------
@@ -105,7 +106,7 @@ Our team participated in preparation of the Israeli road map to 2050 - Transmiss
 
 ### Milken Innovation Center
 
-[Research Fellow](ttps://milkeninnovationcenter.org/fellows-program/)
+[Research Fellow](https://www.milkeninnovationcenter.org/fellows-program/)
 
 Jerusalem, Israel
 
@@ -114,7 +115,6 @@ Aug, 2019 - Sep, 2018
 ::: concise
 I interned at the Ministry of Environmental Protection, Strategy and Policy Division. I supported the ministry’s leading policymakers in addressing economic challenges, developed local economic and financial models and conducted applied research to inform a first of its kind R&D financing program for the Cleantech sector in  Israel.
 :::
-
 
 ### Bank of Israel
 
@@ -128,7 +128,6 @@ Sep, 2018 - Aug, 2016
 ::: concise
 
 I worked in support of Prof. Zvi Hercowitz regarding macroeconomic issues. I collected and analyzed data, drafted research reports and presented results at weekly team meetings.  Topics included inflation prediction, exchange rates and Central Bank monetary policy. 
-
 :::
 
 
