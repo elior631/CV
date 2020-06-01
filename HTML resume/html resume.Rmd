@@ -32,7 +32,7 @@ Contact Info {#contact}
 Skills {#skills}
 --------------------------------------------------------------------------------
 
-- Experienced in Applied research, statistical analysis, statistical learning models, and optimization methods.
+- Experienced in Applied research, statistical analysis, Machine learning models, and optimization methods.
 
 - Skilled in R, SQL, STATA, MATLAB, LaTeX, Tableau and MS office (Excel, Word, PPT)
 
@@ -50,7 +50,7 @@ Main
 Elior Bliah {#title}
 --------------------------------------------------------------------------------
 
-M.A. in Financial Economics (Anticipated 6/20) seeking Senior policy / research analyst position with emphasis in macroeconomics and machine learning
+M.A. in Financial Economics (Anticipated 6/20) seeking for senior economist position.
 
 Education {data-icon=graduation-cap data-concise=true}
 --------------------------------------------------------------------------------
