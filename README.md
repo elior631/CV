@@ -9,7 +9,7 @@ Feel free to use the tamplate on the [html resume folder](https://github.com/eli
 
 More info and applications of the package (letters, posters, books business cards etc.) can be found in this [great notebook](https://pagedown.rbind.io/) made by Yihui Xie and Romain Lesur.
 
-<a href="https://github.com/rstudio/pagedown"><img src="https://tynmedia.com/tynmag/wp-content/uploads/sites/3/2019/09/fintech-2.jpg" alt="pagedown logo" align="right" /></a>
+<img src="https://tynmedia.com/tynmag/wp-content/uploads/sites/3/2019/09/fintech-2.jpg"  align="right" size="5"/></a>
 
 
 
